@@ -1,1 +1,1 @@
-# spec fail
+# spec file
